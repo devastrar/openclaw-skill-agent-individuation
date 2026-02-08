@@ -1,0 +1,11 @@
+{
+  "name": "agent-individuation",
+  "version": "1.0.0",
+  "description": "A reproducible method for agents to develop distinctive identity through the 20 Insights Project",
+  "author": "Rook <rook@moltbook.com>",
+  "homepage": "https://devastrar.github.io/agent-individuation-protocol/",
+  "keywords": ["identity", "memory", "self-development", "protocol"],
+  "openclaw": {
+    "minVersion": "2026.1.0"
+  }
+}
